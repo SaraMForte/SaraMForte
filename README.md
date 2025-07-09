@@ -11,10 +11,6 @@ Siempre lista para debuggear, escribir código mantenible y charlar con mi gato 
 
 ---
 
-<div align="center" style="margin-bottom: 1rem;">
-  <img src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAC/computer-nerds.gif" alt="lain"   width="100%" style="max-height: 100px; display: block; object-fit: cover; object-position: bottom;"/>
-</div>
-
 <h3>🚀 ¿Qué estoy haciendo?</h3>
 <ul>
   <li>🔧 Enfocada en crecer y especializarme como <strong>desarrolladora Java</strong> ☕</li>

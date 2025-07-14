@@ -33,9 +33,6 @@ Siempre lista para debuggear, escribir código mantenible y charlar con mi gato 
 <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" >
 </a>
-<a href="mailto:saraforte310@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=gmail" >
-</a>
 
 ---
 

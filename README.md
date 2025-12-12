@@ -54,3 +54,9 @@ Siempre lista para debuggear, escribir código mantenible y charlar con mi gato 
   <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,linux,deno" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="44" alt="jira logo" style="background-color:#1E293B; border-radius:12px; padding:2px;" />
 </div>
+
+--- 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMForte&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+</div>

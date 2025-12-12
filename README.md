@@ -30,7 +30,7 @@ Siempre lista para debuggear, escribir código mantenible y charlar con mi gato 
 
 ### 🌐 Conecta conmigo
 
-<a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+<a href="https://www.linkedin.com/in/sara-mora-forte/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" >
 </a>
 
